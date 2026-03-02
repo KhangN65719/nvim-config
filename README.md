@@ -4,11 +4,11 @@ My personal Neovim config built on [LazyVim](https://lazyvim.org). Feel free to 
 
 ## Requirements
 
-- Neovim >= 0.9.0
-- Git
-- A [Nerd Font](https://www.nerdfonts.com/)
-- `ripgrep`
-- `fd`
+- [Neovim >= 0.9.0](https://github.com/neovim/neovim/releases)
+- [Git](https://git-scm.com/downloads)
+- [Nerd Font](https://www.nerdfonts.com/font-downloads)
+- [ripgrep](https://github.com/BurntSushi/ripgrep#installation)
+- [fd](https://github.com/sharkdp/fd#installation)
 
 ## Install
 
